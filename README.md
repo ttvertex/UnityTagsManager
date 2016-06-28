@@ -23,3 +23,6 @@ Remove + add + rename tags in Unity made easy!
 **allows multiple tags per object
 
 **edit, save, remove tags without having issues!!
+
+
+contribution: @gatisaab
