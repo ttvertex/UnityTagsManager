@@ -5,7 +5,7 @@ Remove + add + rename tags in Unity made easy!
 
 -The unity system does not allow modify or remove tags.
 
--When removing middle elements, the system shift the indexes in the prefabs.
+-When removing middle elements, the system shifts the indexes in the prefabs.
 
 
 ##### We present a simple yet efficient approach to a tag system:
