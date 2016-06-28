@@ -25,4 +25,4 @@ Remove + add + rename tags in Unity made easy!
 **edit, save, remove tags without having issues!!
 
 
-contribution: @gatisaab
+contribution: @gatistaabb
